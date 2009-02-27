@@ -15,6 +15,7 @@ Makefile.PL
 MANIFEST			This list of files
 META.yml
 README
+t/000_load.t
 tests/001_basic.t.html
 tests/002_thunks.t.html
 tests/003_collection.t.html
@@ -30,6 +31,7 @@ tests/lib/Test/Builder.js
 tests/lib/Test/Chicken.js
 tests/lib/Test/Harness.js
 tests/lib/Test/Harness/Browser.js
+tests/Makefile
 tests/t/001_basic.t.js
 tests/t/002_thunks.t.js
 tests/t/003_collection.t.js

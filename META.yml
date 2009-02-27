@@ -19,4 +19,4 @@ no_index:
 requires:
   JS: 0.17
   JS::jQuery: 0
-version: 0.01
+version: 0.02
